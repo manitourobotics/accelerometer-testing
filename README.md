@@ -1,4 +1,4 @@
-This Netbeans project is for testing the SDXL345 accelerometer through its outputs using the WPILIB with the ADXL345_I2C class and the I²C interface on the accelerometer.
+This Netbeans project is for testing the ADXL345 accelerometer through its outputs using the WPILIB with the ADXL345_I2C class and the I²C interface on the accelerometer.
 
 # Requirements
 
