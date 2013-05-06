@@ -19,7 +19,7 @@ The accelerometer is using the I²C interface. Make sure the accelerometer is wi
 ![I²C interface && Clamps](http://azrathud.com/data/accelerometer-images/clamp.png "Make sure the wires are clamped")
 
 
-I used a random computer four pin computer wire to connect to the I²C pins on the Sidecaro.
+I used a random computer four pin computer wire to connect to the I²C pins on the Sidecar. Make sure the wire order going into the Sidecar is in the right order.(Shown to the right of the wire below and on the right of the accelerometer above)
 
 ![4 pin wire](http://www.azrathud.com/data/accelerometer-images/wire.png "4 Pin Head")
 
