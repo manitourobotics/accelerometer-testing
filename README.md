@@ -20,6 +20,7 @@ The accelerometer is using the I²C interface. Make sure the accelerometer is wi
 
 
 I used a random computer four pin computer wire to connect to the I²C pins on the Sidecaro.
+
 ![4 pin wire](http://www.azrathud.com/data/accelerometer-images/wire.png "4 Pin Head")
 
 The second set of pins from the bottom(shown below) are not accessible using this class. From the ADXL345_I2C class javadoc, "This class alows access to a Analog Devices ADXL345 3-axis accelerometer on an I2C bus. This class assumes the default (not alternate) sensor address of 0x3A (8-bit address)." Don't ask me why the designers of this class didn't add an extra field for specifying in the constructor.
